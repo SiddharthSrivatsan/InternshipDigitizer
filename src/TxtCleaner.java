@@ -1,7 +1,7 @@
 import java.util.*;
 import java.io.*;
 
-public class TxtEditor {
+public class TxtCleaner {
 	
 	public static void main(String[] args) {
 		
